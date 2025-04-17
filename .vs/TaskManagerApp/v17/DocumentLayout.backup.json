@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\E1009615\\Dev\\TaskManagerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1DC28F-5728-4B1A-8B9F-396FD6B0E16A}|TaskManagerApp.csproj|c:\\users\\e1009615\\dev\\taskmanagerapp\\services\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1DC28F-5728-4B1A-8B9F-396FD6B0E16A}|TaskManagerApp.csproj|solutionrelative:services\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1DC28F-5728-4B1A-8B9F-396FD6B0E16A}|TaskManagerApp.csproj|c:\\users\\e1009615\\dev\\taskmanagerapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1DC28F-5728-4B1A-8B9F-396FD6B0E16A}|TaskManagerApp.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1DC28F-5728-4B1A-8B9F-396FD6B0E16A}|TaskManagerApp.csproj|c:\\users\\e1009615\\dev\\taskmanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1DC28F-5728-4B1A-8B9F-396FD6B0E16A}|TaskManagerApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1DC28F-5728-4B1A-8B9F-396FD6B0E16A}|TaskManagerApp.csproj|c:\\users\\e1009615\\dev\\taskmanagerapp\\utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1DC28F-5728-4B1A-8B9F-396FD6B0E16A}|TaskManagerApp.csproj|solutionrelative:utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1DC28F-5728-4B1A-8B9F-396FD6B0E16A}|TaskManagerApp.csproj|c:\\users\\e1009615\\dev\\taskmanagerapp\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1DC28F-5728-4B1A-8B9F-396FD6B0E16A}|TaskManagerApp.csproj|solutionrelative:models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\TaskManagerApp\\Utilities\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\TaskManagerApp\\Utilities\\ConsoleHelper.cs",
+              "RelativeToolTip": "Utilities\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:25:04.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\TaskManagerApp\\Services\\TaskManager.cs",
+              "RelativeDocumentMoniker": "Services\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\TaskManagerApp\\Services\\TaskManager.cs",
+              "RelativeToolTip": "Services\\TaskManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:22:38.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\TaskManagerApp\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\TaskManagerApp\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:20:59.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\TaskManagerApp\\Models\\Priority.cs",
+              "RelativeDocumentMoniker": "Models\\Priority.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\TaskManagerApp\\Models\\Priority.cs",
+              "RelativeToolTip": "Models\\Priority.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:18:50.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\TaskManagerApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\TaskManagerApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:14:24.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
